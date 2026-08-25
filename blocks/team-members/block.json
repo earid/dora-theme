@@ -1,0 +1,12 @@
+{
+	"apiVersion": 3,
+	"name": "my-theme/team-members",
+	"title": "Team Members",
+	"category": "widgets",
+	"icon": "groups",
+	"description": "Displays team members dynamically.",
+	"render": "file:./render.php",
+	"supports": {
+		"html": false
+	}
+}
